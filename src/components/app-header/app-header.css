@@ -1,0 +1,12 @@
+.app-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.app-header__title {
+    font-size: 40px;
+}
+.app-header__status {
+    font-size: 13px;
+    color: #666666
+}

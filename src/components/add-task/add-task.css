@@ -1,0 +1,14 @@
+.add-task {
+    margin-top: 13px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.add-task__button {
+    font-size: 14px;
+    width: 140px;
+}
+.add-task__input {
+    margin-right: 7px;
+    height: 100%;
+}
